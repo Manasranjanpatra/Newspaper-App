@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Apology after Philippines tourism video uses foreign footage",
+            "description": "The ad used scenes from countries including Indonesia, Switzerland and the United Arab Emirates",
+            "url": "http://www.bbc.co.uk/news/world-asia-66080502",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17544/production/_130265559_357479548_584876703805235_3999926932821774011_n.jpg",
+            "publishedAt": "2023-07-02T11:37:17.1669293Z",
+            "content": "A Philippines advertising agency has apologised for using footage of other countries in a promotional tourism video.\r\nThe campaign used images of rice terraces in Indonesia, sand dunes in the United … [+1375 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Zulu King Misuzulu kaZwelithini treated for suspected poisoning - aide",
+            "description": "The king has sought treatment in Eswatini as he is uncomfortable being treated in South Africa.",
+            "url": "http://www.bbc.co.uk/news/world-africa-66079600",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EC1E/production/_130264406_whatsappimage2022-10-29at12.02.24.jpg",
+            "publishedAt": "2023-07-02T10:07:19.3073223Z",
+            "content": "South Africa's Zulu King Misuzulu kaZwelithini is being treated in hospital for suspected poisoning, his traditional prime minister has said.\r\nThe king sought medical attention in Eswatini as he is u… [+3269 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Baltimore shooting: Two dead and 28 injured in mass casualty event, police say",
+            "description": "The incident the US city of Baltimore has injured 28 people, three critically, police say.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66079407",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DE0E/production/_130264865_de27.jpg",
+            "publishedAt": "2023-07-02T09:22:20.1052969Z",
+            "content": "Two people have been killed and another 28 injured in the US city of Baltimore, police say.\r\nA spokesman said that three people remained in a critical condition. \r\nThe incident happened in the Brookl… [+220 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "France riots: Police and protesters clash in Marseille",
+            "description": "France is battling with a fifth night of unrest, with heavy clashes between police and rioters in Marseille.",
+            "url": "http://www.bbc.co.uk/news/live/world-europe-66073728",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2023-07-02T07:22:23.1721396Z",
+            "content": "Laurence in NeuillyImage caption: Laurence in Neuilly\r\nThe suburb of Neuilly-sur-Seine is a far cry from Nanterre, where\r\nthe protests have been centred.\r\nAlthough it's only about 5km (three miles) a… [+1013 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine finds British WW2 Hurricane planes outside Kyiv",
+            "description": "London sent the Hawker Hurricanes to the Soviet Union to help them fight against Nazi Germany.",
+            "url": "http://www.bbc.co.uk/news/world-europe-65955365",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5537/production/_130151812_cleaningatmuseum-1.jpg",
+            "publishedAt": "2023-07-02T05:07:15.9323784Z",
+            "content": "The rusting remains of eight British Hurricane fighter planes dating back to World War Two have been found buried in a forest in Ukraine.\r\nThe aircraft were sent to the Soviet Union by Britain after … [+3980 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Shell still trading Russian gas despite pledge to stop",
+            "description": "The firm is still shipping gas from Siberia despite its promise to withdraw from the Russian energy market.",
+            "url": "http://www.bbc.co.uk/news/business-66021325",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17FE8/production/_130208289_zubov-index-alamy2ec5xn6.jpg",
+            "publishedAt": "2023-07-01T23:52:15.7304799Z",
+            "content": "Shell is still trading Russian gas more than a year after pledging to withdraw from the Russian energy market.\r\nThe company was involved in nearly an eighth of Russia's shipborne gas exports in 2022,… [+4230 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "California reparations: How do you put a price on racism?",
+            "description": "The state of California is considering giving the descendants of slaves $1.2m each.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66058835",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/54A0/production/_130246612_pearlandalvintaylor.jpg",
+            "publishedAt": "2023-07-01T23:07:18.9797069Z",
+            "content": "Alvin Taylor and his sister, Pearl, were kids when the City of Palm Springs, California began burning down their neighbours' homes. But they still remember the smell of the smoke.\r\n\"We would come hom… [+9612 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war corrosive for Vladimir Putin - CIA boss",
+            "description": "William J Burns says dissatisfaction with the conflict in Russia is a valuable recruiting tool.",
+            "url": "http://www.bbc.co.uk/news/world-europe-66076564",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10320/production/_130263366_1214b1cc1830f2b1bc8822c9ef450b821d0b1d790_0_7050_46421000x658.jpg",
+            "publishedAt": "2023-07-01T20:22:18.8890294Z",
+            "content": "The Ukraine war is having a \"corrosive\" effect on Vladimir Putin's leadership of Russia, according to the head of the Central Intelligence Agency (CIA).\r\nRussian disaffection over the war is providin… [+3476 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Helicopter pulls stranded firefighter from sinking boat",
+            "description": "The boat had stalled and went over the edge of a dam during a rescue mission in New Jersey in the US.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66077414",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CF22/production/_130262035_p0fyg080.jpg",
+            "publishedAt": "2023-07-01T19:52:13.9805592Z",
+            "content": "A police helicopter was sent to rescue a group firefighters whose boat had stalled on a river in the US.\r\nThe firefighters had been called to rescue a team of construction workers after their boat ma… [+512 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Paris riots: What we know about teen's shooting by police",
+            "description": "Prosecutors are due to interview a witness after he posted a version of events online.",
+            "url": "http://www.bbc.co.uk/news/world-europe-66075798",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3719/production/_130250141__130224324_microsoftteams-image-3.png",
+            "publishedAt": "2023-07-01T14:52:21.2921828Z",
+            "content": "Prosecutors have begun piecing together what happened before the fatal shooting of 17-year-old Nahel M by a police officer.\r\nThe officer has been charged with homicide and remains in custody.\r\nIn the… [+3161 chars]"
+        }
+    ]
+}
