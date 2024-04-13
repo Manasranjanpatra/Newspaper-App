@@ -8,10 +8,8 @@ export class News extends Component {
    static defaultProps={
     pagesize:8,
     category: "science",
-
-
    }
-   static PropTypes={
+    PropTypes={
     pagesize:PropTypes.number,
     category:PropTypes.string
    }
@@ -89,7 +87,7 @@ export class News extends Component {
             <button disabled={this.state.page<=1} type="button" className="btn btn-dark"  onClick={this.handelPrevClick}> &larr; Previous</button>
 
               <button disabled={this.state.page >=7} type="button" className="btn btn-dark" onClick={this.handelNextClick}>Next     &rarr;  </button>
-
+              
         </div> 
       </div>  
     )
